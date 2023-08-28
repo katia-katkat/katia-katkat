@@ -8,7 +8,7 @@ I am drawn to the realm of hardware acceleration. The promise of unlocking unpar
 
 - 📫 How to reach me **katia.bitam@gmail.com**
 
-- ⚡ In addition to my passion for FPGA technology, I also channel my creativity into crafting unique artisanal jewelry pieces. You can explore my creations on my Instagram page : **Kalyn_pearls**
+- ⚡ In addition to my passion for FPGA technology, I also channel my creativity into crafting unique artisanal jewelry pieces. You can explore my creations on my Instagram page : [**Kalyn_pearls**]([https://linktodocumentation](https://www.instagram.com/kalyn_pearls/?hl=fr))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
