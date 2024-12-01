@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Katia</h1>
 <h3 align="center">I am an electronic engineer with a fervent passion for FPGA digital design.</h3>
-I am drawn to the realm of hardware acceleration. The promise of unlocking unparalleled computational power through specialized hardware designs resonates deeply with my engineering spirit. I am excited by the prospect of crafting architectures that deliver remarkable speed-ups for computationally intensive tasks, offering a glimpse into the future of efficient computing.
+I am drawn to the realm of hardware acceleration. The promise of unlocking unparalleled computational power through specialized hardware designs resonates deeply with my engineering spirit. I am excited by the prospect of working on architectures that deliver remarkable speed-ups for computationally intensive tasks.
 
 - 🌱 I’m currently learning **Hardware acceleration techniques**
 
