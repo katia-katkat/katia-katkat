@@ -1,14 +1,5 @@
 <h1 align="center">Hello, I'm Katia</h1>
-<h3 align="center">I am an electronic engineer with a fervent passion for FPGA digital design.</h3>
-I am drawn to the realm of hardware acceleration. The promise of unlocking unparalleled computational power through specialized hardware designs resonates deeply with my engineering spirit. I am excited by the prospect of working on architectures that deliver remarkable speed-ups for computationally intensive tasks.
 
-- 🌱 I’m currently learning **Hardware acceleration techniques**
-
-- 💬 Ask me about **vhdl, verilog, python, C**
-
-- 📫 How to reach me **katia.bitam@gmail.com**
-
-- ⚡ In addition to my passion for FPGA technology, I also channel my creativity into crafting unique artisanal jewelry pieces. You can explore my creations on my Instagram page : [Kalyn_pearls](https://www.instagram.com/kalyn_pearls/?hl=fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
